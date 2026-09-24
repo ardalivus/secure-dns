@@ -24,7 +24,7 @@ On iOS, the configuration profile sets Cloudflare DNS over HTTPS directly.
 Current Android APK SHA-256:
 
 ```
-6a6dd916a0813a42247a7a166f51b62501d2aa54ace2152374880a168d0087ff
+1a7736f87aee43b50699fc4824b8decf17ba52a00c0db6b62122049c5220bd9f
 ```
 
 Current signed iOS profile SHA-256:
@@ -40,7 +40,7 @@ Create a GitHub Release and attach the APK. The website automatically queries th
 Suggested asset name:
 
 ```
-secure-dns-1.0.0.apk
+SecureDNS-v1.0.1.apk
 ```
 
 ## GitHub Pages
